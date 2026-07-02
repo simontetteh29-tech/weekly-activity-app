@@ -93,18 +93,18 @@ st.markdown(
 # STATIC DATA
 # -------------------------------------------------
 month_weeks = {
-    "January": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5"],
-    "February": ["Week 1", "Week 2", "Week 3", "Week 4"],
-    "March": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5"],
-    "April": ["Week 1", "Week 2", "Week 3", "Week 4"],
-    "May": ["Week 1", "Week 2", "Week 3", "Week 4"],
-    "June": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5"],
-    "July": ["Week 1", "Week 2", "Week 3", "Week 4"],
-    "August": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5"],
-    "September": ["Week 1", "Week 2", "Week 3", "Week 4"],
-    "October": ["Week 1", "Week 2", "Week 3", "Week 4"],
-    "November": ["Week 1", "Week 2", "Week 3", "Week 4", "week 5"],
-    "December": ["Week 1", "Week 2", "Week 3", "Week 4"],
+    "January": ["1", "2", "3", "4", "5"],
+    "February": ["1", "2", "3", "4"],
+    "March": ["1", "2", "3", "4", "5"],
+    "April": ["1", "2", "3", "4"],
+    "May": ["1", "2", "3", "4"],
+    "June": ["1", "2", "3", "4", "5"],
+    "July": ["1", "2", "3", "4"],
+    "August": ["1", "2", "3", "4", "5"],
+    "September": ["1", "2", "3", "4"],
+    "October": ["1", "2", "3", "4"],
+    "November": ["1", "2", "3", "4", "5"],
+    "December": ["1", "2", "3", "4"],
 }
 
 status_options = ["Completed","Ongoing"]
