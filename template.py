@@ -133,11 +133,7 @@ with colB:
     month = st.selectbox("Month", list(month_weeks.keys()))
 
 with colC:
-    week = st.selectbox(
-    "Week",
-    month_weeks[month],
-    index=0
-)
+    week = str(st.selectbox("Week", month_weeks[month] or ["1"]))
 
 with colD:
     year = st.number_input("Year", min_value=2000, max_value=2100)
