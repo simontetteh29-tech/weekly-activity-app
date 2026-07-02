@@ -135,8 +135,6 @@ with colB:
 with colC:
     week = st.selectbox("Week", month_weeks[month])
 
-st.write("Selected Week:", week)
-
 with colD:
     year = st.number_input("Year", min_value=2000, max_value=2100)
 
