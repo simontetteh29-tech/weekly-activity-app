@@ -294,6 +294,7 @@ if submit:
         # -------------------------------------------------
         # WRITE TO GOOGLE SHEET (APPEND ROW)
         # -------------------------------------------------
+        record["Week"] = int(week)
         worksheet.append_row([
             record["Directorate"],
             record["Month"],
