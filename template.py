@@ -42,7 +42,7 @@ else:
         "Corporate Affairs": ["Walk-ins", "Incoming calls", "Client enquiries", "Complaints follow-up", "Emails to units", "Incoming letters", "Letters dispatched", "Media monitoring"],
         "Estate": ["Asset inventory updates", "Utility usage monitoring", "Janitorial supervision", "Repairs & maintenance"],
         "Finance": ["Issuance of receipts", "Preparation of invoices", "PV preparation (Commissioner & 3rd party)", "GIFMIS payments", "Cashbook reconciliation", "Weekly reports", "Deposit of revenue"],
-        "HR": ["Leave requests", "Attendance monitoring", "Administrative memos", "Training coordination", "Staff reports"],
+        "Human Resource": ["Leave requests", "Attendance monitoring", "Administrative memos", "Training coordination", "Staff reports"],
         "IICE": ["Inspection", "Investigation", "Complaints", "monitoring", "Surveillance", "Staff Meeting", "Files Reviewed", "Enforcement"],
         "IT": ["Email setup", "Website updates", "Network resolution", "Desktop support", "Virtual meetings"],
         "Legal": ["Filing of legal processes", "Drafting legal documents", "Court attendance"],
